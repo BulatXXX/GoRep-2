@@ -8,7 +8,7 @@
 #### Запросы
 ![](docs/screenshots/req.png)
 #### Логи
-![](docs/screenshots/req.png)
+![](docs/screenshots/logs.png)
 #### Заголовок
 ![](docs/screenshots/header.png)
 ### Запуск
